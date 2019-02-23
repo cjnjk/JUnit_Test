@@ -35,7 +35,7 @@ public class CalculatorTest {
         System.out.println("testAdd  running ......");
 //      Calculator calculator = new Calculator();
         int sum = calculator.add(1, 2);
-        Assert.assertEquals(3, sum);
+        Assert.assertEquals(31, sum);
         
     }
     @Test
